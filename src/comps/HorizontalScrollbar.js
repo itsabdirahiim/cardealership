@@ -93,7 +93,7 @@ const HorizontalScrollbar = () => {
     
   };
   if (!cars || cars.length === 0) {
-    return <div>No cars found.</div>;
+    return <div>No cars found..</div>;
   }
    const cars1 =  chosen ? cars.filter(x => x.type = chosen) : cars
   return (
