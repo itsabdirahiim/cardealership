@@ -37,14 +37,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/itsabdirahiim/cardealership
+git clone https://github.com/itsabdirahiim/cardealership.
 
 
 
-
-
-##Technologies Used
+### Features
 React: JavaScript library for building user interfaces.
 Three.js: JavaScript library for creating 3D graphics in a web browser.
 React Router: Library for handling routing within a React application.
+
 
