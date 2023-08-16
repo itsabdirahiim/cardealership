@@ -14,7 +14,7 @@ Welcome to the React 3D Car Viewer App repository! This project allows you to ex
 
 ## Demo
 
-Check out the live demo of the app [https://notesappjj0-f1dac4eaa1a2.herokuapp.com].
+Check out the live demo of the app [https://3dcarmodelss.netlify.app/].
 
 ## Features
 
