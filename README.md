@@ -38,12 +38,35 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ```bash
 git clone https://github.com/itsabdirahiim/cardealership.
+ ```Navigate to the project directory and Install the required dependencies
+cd cardealership
+npm install.
+
+
+ ### Features
+
+This project includes the following features:
+
+- **React:** JavaScript library for building user interfaces.
+- **Three.js:** JavaScript library for creating 3D graphics in a web browser.
+- **React Router:** Library for handling routing within a React application.
 
 
 
-### Features
-React: JavaScript library for building user interfaces.
-Three.js: JavaScript library for creating 3D graphics in a web browser.
-React Router: Library for handling routing within a React application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
